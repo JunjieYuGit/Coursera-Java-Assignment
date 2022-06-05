@@ -16,11 +16,10 @@ div {
 
 
 #box {
-	width: 90%;
-	margin-left: auto;
-	margin-right: auto;
-
+	width: 95%;
+	margin: auto;
 }
+
 
 /* P for Right Coner Box */
 p {
@@ -52,7 +51,7 @@ p {
 
 section {
 	clear: right;
-	width: 90%;
+	width: 95%;
 	margin: auto;
 }
 
@@ -63,10 +62,11 @@ section {
  .col-lg-4 {
  	float: left;
  	border: 1px solid black;
+ 	margin-right: 3px;
 
  }
  .col-lg-4 {
- 	width: 33.33%
+ 	width: 33%
  	
  }
 }
@@ -75,13 +75,15 @@ section {
 	.col-m-2, .col-m-1 {
 		float: left;
 		border: 1px solid black;
+		margin-right: 3px;
+		margin-bottom: 3px;
 	}
 	.col-m-2{
-		width: 50%;
+		width: 49.5%;
 		
 	}
 	.col-m-1 {
-		width: 100%
+		width: 99.5%
 		
 	}
 }
@@ -90,6 +92,7 @@ section {
 	.col-sm-12 {
 		float: left;
 		border: 1px solid black;
+		margin-bottom: 5px;
 	}
 	.col-sm-12 {
 		width: 100%
