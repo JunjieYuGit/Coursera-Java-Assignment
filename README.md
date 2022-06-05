@@ -1,2 +1,2 @@
 # Coursera-Java-Assignment
-Coursera_java_Assignment
+HTML, CSS, and Javascript for Web Developers by Yaakov Chaikin
