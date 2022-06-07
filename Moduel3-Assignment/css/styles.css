@@ -1,0 +1,59 @@
+body {
+	font-size: 16px;
+	color: #000000;
+	background-color: #D4DAD9;
+}
+
+
+
+#header-nav {
+	background-color: yellow;
+	border-radius: 0;
+}
+
+.navbar-brand h1 {
+	font-size: 1.6em;
+	margin: auto;
+	float: left;
+}
+
+#nav-list {
+	text-align: center;
+}
+#nav-list a:hover {
+	background: #60ECC6;
+}
+
+#main-content {
+	border: 2px solid black;
+	background-color: #E36DF6;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	
+}
+
+
+
+
+
+
+
+
+/********************* @media **********************/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+	
+}
+
+@media (max-width: 767px) {
+
+#menu-categories {
+	
+}
+
+}
